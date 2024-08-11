@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": "bf0f",
+      "name": "Melissa Dooley"
+    },
+    {
+      "id": "3659",
+      "name": "Jonathan Lindgren"
+    },
+    {
+      "id": "e795",
+      "name": "Melody Leuschke"
+    },
+    {
+      "id": "bd9a",
+      "name": "Dexter Hessel"
+    },
+    {
+      "id": "f84a",
+      "name": "Gretchen Ritchie"
+    },
+    {
+      "id": "06dc",
+      "name": "Kara Upton"
+    },
+    {
+      "id": "a55f",
+      "name": "Sonja Goyette-Jones IV"
+    },
+    {
+      "id": "00cd",
+      "name": "Lionel Hoeger"
+    },
+    {
+      "id": "6883",
+      "name": "Dr. Jeremiah Buckridge"
+    }
+  ],
+  "albums": [
+    {
+      "id": "fa67",
+      "userId": "3659",
+      "title": "Recycled Rubber Towels"
+    },
+    {
+      "id": "87dd",
+      "userId": "bf0f",
+      "title": "Refined Soft Mouse"
+    },
+    {
+      "id": "9422",
+      "userId": "bf0f",
+      "title": "Ergonomic Concrete Shoes"
+    },
+    {
+      "id": "24be",
+      "userId": "bf0f",
+      "title": "Sleek Rubber Ball"
+    },
+    {
+      "id": "22e8",
+      "userId": "bf0f",
+      "title": "Awesome Fresh Soap"
+    }
+  ],
+  "photos": [
+    {
+      "id": "b52e",
+      "albumId": "87dd",
+      "url": "https://loremflickr.com/640/480?lock=2515549267427328"
+    },
+    {
+      "id": "e631",
+      "albumId": "87dd",
+      "url": "https://loremflickr.com/640/480?lock=5893993684533248"
+    },
+    {
+      "id": "0386",
+      "albumId": "87dd",
+      "url": "https://loremflickr.com/640/480?lock=8083292811165696"
+    },
+    {
+      "id": "a755",
+      "albumId": "87dd",
+      "url": "https://picsum.photos/seed/15ZoopM/640/480"
+    },
+    {
+      "id": "dd56",
+      "albumId": "87dd",
+      "url": "https://loremflickr.com/640/480?lock=5975034522763264"
+    },
+    {
+      "id": "89c3",
+      "albumId": "87dd",
+      "url": "https://loremflickr.com/640/480?lock=5246097704353792"
+    },
+    {
+      "id": "dd85",
+      "albumId": "87dd",
+      "url": "https://loremflickr.com/640/480?lock=955287871684608"
+    }
+  ]
+}
